@@ -1,0 +1,20 @@
+{
+  "name": "Эврика! — физика, 7 класс",
+  "short_name": "Эврика!",
+  "description": "Интерактивный курс физики для 7 класса: миссии, симуляторы, кроссворды, пазлы и награды.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#101826",
+  "theme_color": "#2F6FED",
+  "lang": "ru",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
